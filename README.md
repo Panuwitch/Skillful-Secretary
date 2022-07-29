@@ -18,4 +18,4 @@ _Chatting with bot_
 - The activities, date and time should be clearly stated.
 - Sentences should be in order of date and time, followed by activities.
 
-_For example_ วันพรุ่งนี้ตอน 9 โมงไปเรียนเกษตรที่อก. , วันเสาร์ตอนบ่าย 2 โมงไปดูหนังกับเพื่อน 
+_For example_ : วันพรุ่งนี้ตอน 9 โมงไปเรียนเกษตรที่อก. , วันเสาร์ตอนบ่าย 2 โมงไปดูหนังกับเพื่อน 
