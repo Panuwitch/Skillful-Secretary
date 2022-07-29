@@ -1,0 +1,7 @@
+# Skillful-Secretary
+Hello Dear,
+  This project was created for SCiUS 12th FORUM.
+
+I hope you enjoy it !!
+Thanks,
+SCiUS CMU
