@@ -12,3 +12,10 @@ _Installing application_
 6. Press the "Allow" button to allow the use of the microphone.![Screenshot_20220729-123445_Package installer](https://user-images.githubusercontent.com/92591971/181699344-230907f3-a9af-43de-88aa-6e7a00265725.jpg)
 7. This is what the app looks like and you can tap on the calendar icon to see the events you've added.![Screenshot_20220729-123645](https://user-images.githubusercontent.com/92591971/181699875-ef9e325a-320b-454b-9177-88e4c35abb4d.jpg)![Screenshot_20220729-123654](https://user-images.githubusercontent.com/92591971/181699918-e3394789-05e6-410e-9399-761e3dd191db.jpg)
 
+_Chatting with bot_
+1. You can greet it like saying สวัสดี หวัดดี etc.**Greetings that the bot understands are commonly used. Some words the bot might not understand.**
+2. Appointment sentences that the bot can understand well :
+- The activities, date and time should be clearly stated.
+- Sentences should be in order of date and time, followed by activities.
+
+_For example_ วันพรุ่งนี้ตอน 9 โมงไปเรียนเกษตรที่อก. วันเสาร์ตอนบ่าย 2 โมงไปดูหนังกับเพื่อน 
