@@ -3,7 +3,7 @@
 
 _Installing application_
 
-https://drive.google.com/file/d/1TlFJYcXAR_PDmhEJm_uyKdxBGBl-boyS/view?fbclid=IwAR3q67odP4TIiDQrOLaArSF8_hc_AKgIV9O8sY4wPBGw0F7RVA8aNeVSua4
+(https://drive.google.com/file/d/1TlFJYcXAR_PDmhEJm_uyKdxBGBl-boyS/view?usp=sharing)
 
 1. When you come to the link --> Clikc on the drive's link ![Screenshot_20220729-122839_Samsung Internet](https://user-images.githubusercontent.com/92591971/181697190-451d1589-d261-4eb1-9a61-87d372058e8f.jpg)
 2. Download the application. ![Screenshot_20220729-122945_Samsung Internet](https://user-images.githubusercontent.com/92591971/181697780-b1b040ec-9ecb-40d8-824b-36fd6af1e54e.jpg)
