@@ -15,6 +15,8 @@ _Installing application_
 7. This is what the app looks like and you can tap on the calendar icon to see the events you've added, home bottom to see what id you logined or chatting bottom to talking with the application. 
 
 https://user-images.githubusercontent.com/92591971/187015416-0dfada90-b73b-4f29-af82-0c5d05724d26.mp4
+![101123](https://user-images.githubusercontent.com/92591971/187015667-e33df507-b2f1-4c85-8048-5c4584fbf281.jpg)
+![101124](https://user-images.githubusercontent.com/92591971/187015681-1abba936-4330-4dcc-856f-4ee958c8aa82.jpg)
 
 
 8. And when you go to chatting page press the "Allow" button to allow the use of the microphone.![101122](https://user-images.githubusercontent.com/92591971/187015473-6f9bfd1b-0a3a-4f7f-a42e-4cd165f30a88.jpg)
